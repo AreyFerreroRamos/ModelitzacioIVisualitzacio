@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"cat.urv.deim.miv.laboratoris","l":"Laboratori2"}];updateSearchResults();
